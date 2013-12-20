@@ -1,0 +1,11 @@
+{
+    "group": "Flurry",
+    "libs": [],
+    "frameworks": ["SystemConfiguration.framework", "Security.framework", "AdSupport.framework"],
+    "headerpaths": [],
+    "files":   [],
+    "folders": [],    
+    "otherCFlags": [],    
+    "otherLDFlags": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"]
+}

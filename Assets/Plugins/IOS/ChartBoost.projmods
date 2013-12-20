@@ -1,0 +1,11 @@
+{
+    "group": "ChartBoost",
+    "libs": [],
+    "frameworks": ["SystemConfiguration.framework", "QuartzCore.framework", "CoreGraphics.framework", "AdSupport.framework:Weak", "StoreKit.framework"],
+    "headerpaths": [],
+    "files":   [],
+    "folders": [],    
+    "otherCFlags": [],    
+    "otherLDFlags": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"]
+}
